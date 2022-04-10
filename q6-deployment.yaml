@@ -5,7 +5,7 @@ metadata:
   labels: 
     app: q6-deployment
 spec:
-  replicas: 3
+  replicas: 4
   selector: 
     matchLabels:
       app: q6-FinalExam
